@@ -1,0 +1,7 @@
+pytest
+requests
+python-dotenv==0.21.0
+pytest_voluptuous
+voluptuous
+curlify
+allure-pytest
