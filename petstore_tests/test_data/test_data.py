@@ -24,7 +24,18 @@ class Users:
             }
 
 
-    user_for_test_delete = {
+    user_not_found = {
+            "id": 2,
+            "username": "string11",
+            "firstName": "string3",
+            "lastName": "string3",
+            "email": "string@mail.com",
+            "password": "111111",
+            "phone": "+313213123123",
+            "userStatus": 0
+            }
+
+    user_login = {
             "id": 2,
             "username": "string11",
             "firstName": "string3",
