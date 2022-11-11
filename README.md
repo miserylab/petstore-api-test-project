@@ -71,7 +71,7 @@ Telegram bot sends a brief report to a specified telegram chat by results of eac
 
 [Back to the table of contents ⬆](#TableOfContents)
 
-# <a name="AllureReport">Test results report in [Allure Report](https://jenkins.autotests.cloud/job/C01-miserylab-python_litres-mobile-test-project/12/allure/)</a>
+# <a name="AllureReport">Test results report in [Allure Report](https://jenkins.autotests.cloud/job/C01-miserylab-petstore-api-test-project/28/allure/)</a>
 
 
 <p align="center">
@@ -85,7 +85,7 @@ Telegram bot sends a brief report to a specified telegram chat by results of eac
 
 [Back to the table of contents ⬆](#TableOfContents)
 
-# <a name="AllureTestOps">[Allure TestOps](https://allure.autotests.cloud/project/1659/dashboards) integration</a>
+# <a name="AllureTestOps">[Allure TestOps](https://allure.autotests.cloud/project/1655/dashboards) integration</a>
 > The link can be accessed only by authorized users.
 
 ## <a name="AllureTestOpsProject">Project in Allure TestOps</a>
@@ -106,7 +106,7 @@ Telegram bot sends a brief report to a specified telegram chat by results of eac
 
 [Back to the table of contents ⬆](#TableOfContents)
 
-# <a name="Jira">[Jira](https://jira.autotests.cloud/browse/HOMEWORK-424) integration</a>
+# <a name="Jira">[Jira](https://jira.autotests.cloud/browse/HOMEWORK-422) integration</a>
 > The link can be accessed only by authorized users.
 <p align="center">
   <img src="resources/images/jira.png" alt="Jira integration"/>
